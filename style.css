@@ -47,7 +47,7 @@ header img:hover {
 }
 
 main {
-    background-color: rgba(45, 224, 221, 0.546);
+    background-color: rgb(131, 183, 182);
 }
 
 main img {
@@ -63,6 +63,7 @@ main img:hover {
 .conteudo {
     display: block;
     position: relative;
+    text-decoration: none;
     justify-content: center;
     text-align: justify;
     color: rgb(74, 74, 74);
