@@ -55,6 +55,10 @@ main img {
     width: 100%;
 }
 
+main img:hover {
+    opacity: 50%;
+}
+
 h2 {
     color: rgb(255, 255, 255);
     font-size: 35px;
