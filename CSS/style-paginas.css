@@ -87,6 +87,11 @@ h2 {
 }
 
 .personagens {
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: baseline;
+    margin: 0;
+    border: 0;
     width: 1000px;
     margin: 0px  244px;
     padding: 20px;
