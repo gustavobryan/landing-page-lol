@@ -46,8 +46,28 @@ header img:hover {
     opacity: 50%;
 }
 
-main {
-    background-color: rgba(57, 57, 57, 0.99);
+.band {
+    background-color: rgba(84, 53, 15, 0.619);
+}
+
+.dem {
+    background-color: rgba(9, 47, 90, 0.639);
+}
+
+.io {
+    background-color: rgba(82, 81, 81, 0.79);
+}
+
+.nox {
+    background-color: #696743cf;
+}
+
+.shu {
+    background-color: rgba(49, 49, 36, 0.839);
+}
+
+.zaun {
+    background-color: rgba(5, 32, 5, 0.79);
 }
 
 main img {
@@ -97,14 +117,14 @@ h2 {
     margin: 0;
     border: 0;
     width: 1000px;
-    margin: 0px  244px;
+    margin: 0px 244px;
     padding: 20px;
 }
 
 .personagens img {
     width: 380px;
     height: 150px;
-    box-shadow: 1px 2px 1px  #a99e0a;
+    box-shadow: 1px 2px 1px #a99e0a;
 }
 
 .personagens li {
@@ -123,8 +143,9 @@ h2 {
 .personagens li:hover {
     opacity: 60%;
     cursor: pointer;
-    
+
 }
+
 .personagens h3 {
     color: rgb(149, 149, 44);
     padding: 5px;
@@ -149,7 +170,8 @@ footer img {
     height: 60px;
 }
 
-footer p, a {
+footer p,
+a {
     display: inline-block;
     color: rgba(255, 255, 255, 0.34);
     font-size: 17px;
